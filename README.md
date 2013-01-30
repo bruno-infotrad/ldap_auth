@@ -1,0 +1,1 @@
+Elgg ldap authentication module. PHP has to be compiled with the ldap module. Supports LDAP/LDAPS, LDAP simple authentication, multiple search DNs and attribute selection for mapping with the Elgg user object.
